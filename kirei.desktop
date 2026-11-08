@@ -1,0 +1,13 @@
+[Desktop Entry]
+Type=Application
+Name=Kirei
+GenericName=Image Upscaler
+Comment=Upscale anime art and photos with Real-ESRGAN
+Exec=@EXEC@ %f
+Icon=kirei
+Terminal=false
+Categories=Graphics;2DGraphics;RasterGraphics;
+Keywords=upscale;upscaler;esrgan;anime;enhance;superresolution;
+MimeType=image/png;image/jpeg;image/webp;
+StartupWMClass=kirei
+StartupNotify=true
